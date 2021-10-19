@@ -5,7 +5,7 @@
 
 ### Cook Idea
 * Chinese
-   * Szechuan
+   * 川菜Szechuan
    - 1. [麻婆豆腐！](./chinese/Szechuan/0001麻婆豆腐.md)
    - 2. [鸡公煲！](./chinese/Szechuan/0002鸡公煲.md)
    * 徽菜Anhui
