@@ -6,8 +6,8 @@
 ### Cook Idea
 * Chinese
    * Szechuan
-   - 0001. [麻婆豆腐！](./chinese/Szechuan/0001麻婆豆腐.md)
-   - 0002. [鸡公煲！](./chinese/Szechuan/0002鸡公煲.md)
+   - 1. [麻婆豆腐！](./chinese/Szechuan/0001麻婆豆腐.md)
+   - 2. [鸡公煲！](./chinese/Szechuan/0002鸡公煲.md)
    * Anhui
    * Cantonese
    * Fujian
