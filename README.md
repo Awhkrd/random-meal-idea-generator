@@ -1,22 +1,14 @@
 
 # Hi :wave:
 
-I'm Ava Wu. 
-👩‍💻newbie developer
-👩‍🍳nonprofessional cook
-I'd like to share some cooking idea with you.
+- I'm Ava Wu. 
+- 👩‍💻newbie developer
+- 👩‍🍳nonprofessional cook
+- I'd like to share some cooking idea with you.
 
 ### Some random dishes & bento I cooked
-![image](https://user-images.githubusercontent.com/50277379/137982845-8233b162-e56d-4c43-9a4e-d77f682c673c.png)
-![image](https://user-images.githubusercontent.com/50277379/137983061-46afa3c5-964d-4019-a875-d452402a1773.png)
-![image](https://user-images.githubusercontent.com/50277379/137983112-395c4f11-220d-4a4a-a884-e1f890990310.png)
-![image](https://user-images.githubusercontent.com/50277379/137983146-3b3c9c01-d800-438d-8293-ff3f09ee76cf.png)
-![image](https://user-images.githubusercontent.com/50277379/137983189-49bb7b92-3c10-421e-ac18-8f859582ef7c.png)
-![image](https://user-images.githubusercontent.com/50277379/137983234-3d866912-7c3a-4231-b6c3-8bcd2f28f3a3.png)
-![image](https://user-images.githubusercontent.com/50277379/137983270-b19ecbf1-945f-4f12-922e-4017db8137d0.png)
-![image](https://user-images.githubusercontent.com/50277379/137983297-64831670-1c85-4f64-af3a-6312deaf187c.png)
-![image](https://user-images.githubusercontent.com/50277379/137983326-c52b45bc-0c1b-47b0-8c55-7d58170a2ddd.png)
-![image](https://user-images.githubusercontent.com/50277379/137983362-89a22eef-ea31-4098-91bb-412fc16935fe.png)
+![5951634676552_ pic](https://user-images.githubusercontent.com/50277379/137988401-22b4453d-f43a-4c9c-afe4-41a6aa4c1527.jpg)
+
 
 
 
