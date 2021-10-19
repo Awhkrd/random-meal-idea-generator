@@ -6,8 +6,8 @@
 ### [Meal Idea]
 * Chinese
    * Szechuan
-   ** [麻婆豆腐！](./chinese/Szechuan/0001麻婆豆腐.md)
-   ** [鸡公煲！](./chinese/Szechuan/0002鸡公煲.md)
+   > 0001. [麻婆豆腐！](./chinese/Szechuan/0001麻婆豆腐.md)
+   > 0002. [鸡公煲！](./chinese/Szechuan/0002鸡公煲.md)
    * Anhui
    * Cantonese
    * Fujian
