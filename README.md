@@ -8,13 +8,13 @@
    * Szechuan
    - 1. [麻婆豆腐！](./chinese/Szechuan/0001麻婆豆腐.md)
    - 2. [鸡公煲！](./chinese/Szechuan/0002鸡公煲.md)
-   * Anhui
-   * Cantonese
-   * Fujian
-   * Hunan
-   * Jiangsu
-   * Shandong
-   * Zhejiang
+   * 徽菜Anhui
+   * 粵菜Cantonese
+   * 閩菜Fujian
+   * 湘菜Hunan
+   * 蘇菜Jiangsu
+   * 魯菜Shandong
+   * 浙菜Zhejiang
    
 
 * Japanese
