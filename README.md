@@ -29,7 +29,7 @@
    * 徽菜Anhui
    * 粵菜Cantonese
    * 閩菜Fujian
-   - 1. [佛跳墙！](./chinese/Fujian/0006佛跳墙.md)
+   - 1. [佛跳墙 Buddha Jumps Over The Wall!](./chinese/Fujian/0006佛跳墙.md)
    * 湘菜Hunan
    * 蘇菜Jiangsu
    * 魯菜Shandong
