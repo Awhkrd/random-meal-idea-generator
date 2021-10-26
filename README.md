@@ -10,7 +10,9 @@
 ![5951634676552_ pic](https://user-images.githubusercontent.com/50277379/137988401-22b4453d-f43a-4c9c-afe4-41a6aa4c1527.jpg)
 
 
+### Usage
 
+- Open `RandomFoodGenerate.ipynb` and run code
 
 ## What should I eat?
 
