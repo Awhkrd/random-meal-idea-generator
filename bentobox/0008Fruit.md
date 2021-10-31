@@ -1,5 +1,3 @@
 # Fruit
 
-![image](https://user-images.githubusercontent.com/50277379/138513029-6bfa3705-d22d-4c9c-beff-468da6d5a9f4.png)
-
-
+![image](https://user-images.githubusercontent.com/50277379/139576293-49a356d0-e114-419a-b384-31866445830d.png)
