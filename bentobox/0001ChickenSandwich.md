@@ -1,3 +1,3 @@
 # Chicken sandwich
 
-![image](https://user-images.githubusercontent.com/50277379/138511618-99b6869e-8264-43e2-83a2-996060a7b519.png)
+![image](https://user-images.githubusercontent.com/50277379/139576193-c44c548b-b1f8-4077-a005-5e858acf1178.png)
