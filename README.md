@@ -39,6 +39,7 @@
    - 2. [拔丝地瓜 Candied Sweet Potatoes!](./chinese/shandong/0008拔丝地瓜.md)
    * 浙菜Zhejiang
    - 1. [糖醋排骨 Sweet And Sour Pork Ribs!](./chinese/zhejiang/0007糖醋排骨.md)
+   - 2. [酱烧排骨 Stew Pork Ribs!](./chinese/zhejiang/0011酱烧排骨.md)
    
 * Japanese
 * Mexican
