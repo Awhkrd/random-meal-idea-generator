@@ -44,15 +44,15 @@
 * Japanese
 * Mexican
 * Korean
-  * [김밥 Kimbap!](./korean/0011김밥.md)
-  * [콩나물국 Bean Sprout Soup!](./korean/0012콩나물국.md)
-  * [삼겹살 Samgyeopsal!](./korean/0013삼겹살.md)
-  * [비빔밥 Bibimbap!](./korean/0014비빔밥.md)
-  * [된장 Doenjang!](./korean/0015된장.md)
-  * [김치 Kimchi!](./korean/0016김치.md)
-  * [고추순대 Pepper Sundae!](./korean/0017고추순대.md)
-  * [초두부 Original Tofu!](./korean/0018초두부.md)
-  * [보쌈 Bossam!](./korean/0019보쌈.md)
-  * [라면 Instant noodles!](./korean/0020라면.md)
+  * [紫菜包饭 김밥 Kimbap!](./korean/0011김밥.md)
+  * [豆芽汤 콩나물국 Bean Sprout Soup!](./korean/0012콩나물국.md)
+  * [烤五花肉 삼겹살 Samgyeopsal!](./korean/0013삼겹살.md)
+  * [拌饭 비빔밥 Bibimbap!](./korean/0014비빔밥.md)
+  * [大酱汤 된장 Doenjang!](./korean/0015된장.md)
+  * [泡菜 김치 Kimchi!](./korean/0016김치.md)
+  * [彩椒糯米饭 고추순대 Pepper Sundae!](./korean/0017고추순대.md)
+  * [水豆腐 초두부 Original Tofu!](./korean/0018초두부.md)
+  * [包饭 보쌈 Bossam!](./korean/0019보쌈.md)
+  * [泡面 라면 Instant noodles!](./korean/0020라면.md)
 * Indian
 * Italian
